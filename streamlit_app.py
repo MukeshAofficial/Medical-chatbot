@@ -5,7 +5,7 @@ import streamlit as st
 
 
 # Set the OpenAI API key
-api_key = "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"
+
 openai.api_key = api_key
 
 st.title("Medical Assistant")
